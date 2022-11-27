@@ -1,0 +1,1 @@
+print("to jest plik do testowania githuba")
